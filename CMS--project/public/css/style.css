@@ -1,0 +1,49 @@
+#login {
+    align-items: center;
+    display:flex;
+    height: 630px;
+}
+#login h2{
+    text-align: center;
+    color:blueviolet
+}
+#login h5{
+   text-align: center;
+   margin-top: 10px;;
+}
+#login p{
+   text-align: center;
+}
+#id{
+    background-color: #c7936d;
+    border-radius: 3%;
+}
+#header{
+    background-color: blue;
+    padding: 15px 0px;
+}
+#header button{
+  float: right;
+}
+#header h5{
+    color:whitesmoke
+}
+body{
+    background-color: darkgray;
+}
+#profiles{
+    display: -webkit-flex;
+}
+#message{
+    text-align: center;
+    
+    margin: 250px 4px;
+}
+#message h4{
+    font-size: 40px;
+    font-style: italic;
+    color: black;
+}
+#message p{
+    font-size: 25px;
+}

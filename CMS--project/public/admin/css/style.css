@@ -1,0 +1,20 @@
+#header{
+    background-color: blue;
+    padding: 15px 0px;
+}
+#header button{
+  float: right;
+}
+#header h2{
+    color:whitesmoke
+}
+#footer{
+    padding: 10px 0px;
+    background-color: blue;
+}
+
+#footer h4{ 
+    color: aliceblue;
+    text-align: center;
+    font-size: 14px;
+}
